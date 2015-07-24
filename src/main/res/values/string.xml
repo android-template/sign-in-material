@@ -1,0 +1,7 @@
+<resources>
+    <string name="login_email">Correo electrónico</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_sign_in">Entrar</string>
+    <string name="login_sign_up">Crear una cuenta</string>
+    <string name="login_forgot_password">Recuperar contraseña</string>
+</resources>
